@@ -46,7 +46,7 @@
 
 ### 📊 Profile stats
 
-[![Tothagata's github activity graph](https://activity-graph.herokuapp.com/graph?username=toth2000&theme=xcode)](https://git.io/toth2000)
+[![Tothagata's github activity graph](https://activity-graph.herokuapp.com/graph?username=toth2000&theme=xcode)](#)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="#">
