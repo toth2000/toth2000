@@ -16,7 +16,7 @@
 
 - **Working :** Web Development :computer: | Android App Development 📱
 - **Education :** I am pursuing B.Tech (Bachelor of Technology) in Computer Science and Engineering (2019-2023)
-- **Learning :** Full-Stack Web Development | Open-Source | DevOps
+- **Learning :** Open-Source | DevOps
 - **Hobbies :** Gaming 🎮 | Movies 🎥 | TV shows 📺
 - **Pronouns :** He/Him/His :innocent:
 
