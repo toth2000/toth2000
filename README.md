@@ -15,7 +15,7 @@
 ### 👨‍💼 About Me
 
 - **Working :** Web Development :computer: | Android App Development 📱
-- **Education :** I am pursuing B.Tech (Bachelor of Technology) in Computer Science and Engineering (2019-2023)
+- **Education :** Completed B.Tech (Bachelor of Technology) in Computer Science and Engineering (2019-2023)
 - **Learning :** Open-Source | DevOps
 - **Hobbies :** Gaming 🎮 | Movies 🎥 | TV shows 📺
 - **Pronouns :** He/Him/His :innocent:
