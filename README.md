@@ -46,8 +46,6 @@
 
 ### 📊 Profile stats
 
-[![Tothagata's github activity graph](https://activity-graph.herokuapp.com/graph?username=toth2000&theme=xcode)](#)
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toth2000&layout=compact&hide=jupyter%20notebook&theme=outrun" />
