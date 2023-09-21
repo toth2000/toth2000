@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Tothagata Bhattacharjee 👨‍💻 </h1>
 
-<h3 align="center">  Problem Solver | Tech Enthusiast | Computer Science Student </h3> <br>
+<h3 align="center"> Full Stack Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/toth2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,9 +14,8 @@
 
 ### 👨‍💼 About Me
 
-- **Working :** Web Development :computer: | Android App Development 📱
+- **Working :** Web Development :computer: | Android App Development 📱| Full stack Development
 - **Education :** Completed B.Tech (Bachelor of Technology) in Computer Science and Engineering (2019-2023)
-- **Learning :** Open-Source | DevOps
 - **Hobbies :** Gaming 🎮 | Movies 🎥 | TV shows 📺
 - **Pronouns :** He/Him/His :innocent:
 
